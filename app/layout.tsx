@@ -1,6 +1,6 @@
 import Navbar from 'components/layout/navbar';
 import { Inter } from 'next/font/google';
-import { Script } from 'next/script';
+import Script from 'next/script';
 import { ReactNode, Suspense } from 'react';
 import './globals.css';
 
